@@ -1,0 +1,63 @@
+{
+  "English Only": null,
+  "Hindi": {
+    "code": "HI",
+    "edge": "hi-IN-MadhurNeural",
+    "piper": "hi/hi_IN/cmu_arctic/medium/hi_IN-cmu_arctic-medium"
+  },
+  "Russian": {
+    "code": "RU",
+    "edge": "ru-RU-DmitryNeural",
+    "piper": "ru/ru_RU/dmitri/medium/ru_RU-dmitri-medium"
+  },
+  "German": {
+    "code": "DE",
+    "edge": "de-DE-KillianNeural",
+    "piper": "de/de_DE/thorsten/medium/de_DE-thorsten-medium"
+  },
+  "Spanish": {
+    "code": "ES",
+    "edge": "es-ES-AlvaroNeural",
+    "piper": "es/es_ES/sharvard/medium/es_ES-sharvard-medium"
+  },
+  "French": {
+    "code": "FR",
+    "edge": "fr-FR-HenriNeural",
+    "piper": "fr/fr_FR/siwis/medium/fr_FR-siwis-medium"
+  },
+  "Japanese": {
+    "code": "JA",
+    "edge": "ja-JP-KeitaNeural",
+    "piper": "ja/ja_JP/upaya/medium/ja_JP-upaya-medium"
+  },
+  "Chinese": {
+    "code": "ZH",
+    "edge": "zh-CN-YunxiNeural",
+    "piper": "zh/zh_CN/huayan/medium/zh_CN-huayan-medium"
+  },
+  "Turkish": {
+    "code": "TR",
+    "edge": "tr-TR-AhmetNeural",
+    "piper": "tr/tr_TR/dfki/medium/tr_TR-dfki-medium"
+  },
+  "Arabic": {
+    "code": "AR",
+    "edge": "ar-SA-HamedNeural",
+    "piper": "ar/ar_JO/kareem/medium/ar_JO-kareem-medium"
+  },
+  "Portuguese": {
+    "code": "PT",
+    "edge": "pt-BR-AntonioNeural",
+    "piper": "pt/pt_BR/faber/medium/pt_BR-faber-medium"
+  },
+  "Korean": {
+    "code": "KO",
+    "edge": "ko-KR-InJoonNeural",
+    "piper": "ko/ko_KR/kss/medium/ko_KR-kss-medium"
+  },
+  "Italian": {
+    "code": "IT",
+    "edge": "it-IT-DiegoNeural",
+    "piper": "it/it_IT/riccardo/medium/it_IT-riccardo-medium"
+  }
+}
